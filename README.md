@@ -18,8 +18,8 @@ Navigate to folder with extracted files
     open dist/index.html
     
 If command does not work, go to:   
-    file manager > downloads > steem-paperwallet-master > dist
-    right click "index.html" > open with [firefox] browser
+  
+    file manager > downloads > steem-paperwallet-master > dist > right click "index.html" > open with [firefox] browser
     
 
 ### Remark
